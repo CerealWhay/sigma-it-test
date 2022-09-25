@@ -73,7 +73,7 @@
   &__icon {
     height: 32px;
     &::before {
-      content: url("/assets/icons/anchor-icon.svg");
+      content: url("../assets/icons/anchor-icon.svg");
     }
   }
   &__title {
@@ -155,7 +155,7 @@
       height: 50px;
       width: 50px;
       &::before {
-        content: url("/assets/icons/doc-icon.svg");
+        content: url("../assets/icons/doc-icon.svg");
       }
     }
     &-text {
@@ -263,7 +263,7 @@
       margin-right: 100px;
       position: relative;
       &::before {
-        content: url("/assets/icons/video-icon.svg");
+        content: url("../assets/icons/video-icon.svg");
         position: absolute;
         left: 50%;
         top: 50%;
@@ -340,7 +340,7 @@
         &-icon {
           height: 40px;
           &::before {
-            content: url("/assets/icons/flower-icon--green.svg");
+            content: url("../assets/icons/flower-icon--green.svg");
           }
         }
         &-text {

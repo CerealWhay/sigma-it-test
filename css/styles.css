@@ -205,7 +205,7 @@ body {
   height: 32px;
 }
 .section-tag__icon::before {
-  content: url("/assets/icons/anchor-icon.svg");
+  content: url("../assets/icons/anchor-icon.svg");
 }
 .section-tag__title {
   margin-left: 15px;
@@ -276,7 +276,7 @@ body {
   width: 50px;
 }
 .employee__link-icon::before {
-  content: url("/assets/icons/doc-icon.svg");
+  content: url("../assets/icons/doc-icon.svg");
 }
 .employee__link-text {
   margin-left: 15px;
@@ -367,7 +367,7 @@ body {
   position: relative;
 }
 .main-section__body .main-section__image::before {
-  content: url("/assets/icons/video-icon.svg");
+  content: url("../assets/icons/video-icon.svg");
   position: absolute;
   left: 50%;
   top: 50%;
@@ -442,7 +442,7 @@ body {
   height: 40px;
 }
 .consultation__body .consultation__list-item-icon::before {
-  content: url("/assets/icons/flower-icon--green.svg");
+  content: url("../assets/icons/flower-icon--green.svg");
 }
 .consultation__body .consultation__list-item-text {
   font-style: normal;
