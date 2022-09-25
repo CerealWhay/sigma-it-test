@@ -1,0 +1,35 @@
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: space-between;
+  &__policy {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 25px;
+    color: #212529;
+    opacity: 0.9;
+
+    max-width: 300px;
+  }
+  &__socials {
+    .footer__socials-text {
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 25px;
+      color: #212529;
+      opacity: 0.9;
+    }
+    .footer__socials-links {
+      margin-top: 5px;
+      a {
+        img {
+
+        }
+      }
+    }
+  }
+  &__schedule {}
+}
